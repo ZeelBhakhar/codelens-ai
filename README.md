@@ -3,6 +3,7 @@
 ### AI-Powered Code Analysis and Repository Insights
 
 🌐 **Live Demo:** [Try CodeLens AI](https://codelens-ai-mauve.vercel.app/)
+
 💻 **Source Code:** [GitHub Repository](https://github.com/ZeelBhakhar/codelens-ai)
 
 CodeLens AI is a web application designed to help developers analyze source code and GitHub repositories using AI. It provides a centralized workspace for code analysis, repository insights, architecture visualization, and analysis reports.
